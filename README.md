@@ -1,2 +1,2 @@
 # Development
-This is a pair pandas home work assignment of Zeynel and Sileshi for ML course
+This is a pair pandas home_work done by Sileshi and Zeynel for ML course
